@@ -1,2 +1,2 @@
 # teamgemes
-Ini repository buat team gema :D
+Ini repository buat team gemes :D
